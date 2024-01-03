@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-pethuraj&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-pethuraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-pethuraj" alt="arunkumar-pethuraj" /></a> </p>
-
 - 🔭 I’m currently working on [Bharat-Intern](https://github.com/Arunkumar-Pethuraj/Bharat-Intern)
 
 - 🌱 I’m currently learning **MongoDB**
