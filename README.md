@@ -1,11 +1,9 @@
-![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Arunkumar Pethuraj</h1>
 <h3 align="center">A passionate 💻 fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar-pethuraj&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar-pethuraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar-pethuraj" alt="arunkumar-pethuraj" /></a> </p>
 
 - 🔭 I’m currently working on [Bharat-Intern](https://github.com/Arunkumar-Pethuraj/Bharat-Intern)
 
@@ -30,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar-pethuraj&show_icons=true&locale=en" alt="arunkumar-pethuraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar-pethuraj&" alt="arunkumar-pethuraj" /></p>
-
