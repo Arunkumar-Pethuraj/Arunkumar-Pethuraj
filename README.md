@@ -29,13 +29,10 @@
 
 ###
 
-<div>
   <a href="arunkumarpethuraj@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
 
-<div style="margin-left:5">
   <a href="https://www.github.com/Arunkumar-Pethuraj" target="_blank" rel="noreferrer">
    <picture> 
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -43,13 +40,11 @@
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="52" height="40" /> 
    </picture> 
  </a>
- </div>
  
-<div>
   <a href="https://www.linkedin.com/in/arunkumar-pethuraj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
- </div>
+ 
 ###
 
 <h3 align="left">💻 Tech Stack</h3>
