@@ -1,9 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Arunkumar Pethuraj
-==========================================================================================================================================
+<h2 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Arunkumar Pethuraj
+</h2>
+
+###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Arunkumar-Pethuraj.Arunkumar-Pethuraj&left_color=dimgrey&right_color=teal&left_text=Profile%20Views"  />
 
+###
+
+<a href="https://www.github.com/Arunkumar-Pethuraj" target="_blank" rel="noreferrer">
+<img align="right" src="https://img.shields.io/github/followers/Arunkumar-Pethuraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+###
+
+<br clear="both">
+
 <h3 align="center">A Passionate Full Stack Developer 👨🏻‍💻</h3>
+
+###
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Arunkumar Pethuraj](https://arunkumarpethuraj.netlify.app/)
@@ -11,10 +24,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning [Reactjs](https://react.dev/)
 * ⚡  Learn More Be Smart
 
-<a href="https://www.github.com/Arunkumar-Pethuraj" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Arunkumar-Pethuraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+###
 
-### 💻 Tech Stack
+<h3 align="left">🌐 Connect</h3>
+
+###
+
+  <a href="arunkumarpethuraj@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.github.com/Arunkumar-Pethuraj" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/github/followers/Arunkumar-Pethuraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/arunkumar-pethuraj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+ 
+###
+
+<h3 align="left">💻 Tech Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
