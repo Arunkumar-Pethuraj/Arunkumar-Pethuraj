@@ -17,11 +17,11 @@
 
 ###
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Arunkumar Pethuraj](https://arunkumarpethuraj.netlify.app/)
-* ✉️  You can contact me at [arunkumarpethuraj@gmail.com](mailto:arunkumarpethuraj@gmail.com)
-* 🧠  I'm learning [Reactjs](https://react.dev/)
-* ⚡  Learn More Be Smart
+ 🌍  I'm based in India
+ 🖥️  See my portfolio at [Arunkumar Pethuraj](https://arunkumarpethuraj.netlify.app/)
+ ✉️  You can contact me at [arunkumarpethuraj@gmail.com](mailto:arunkumarpethuraj@gmail.com)
+ 🧠  I'm learning [Reactjs](https://react.dev/)
+ ⚡  Learn More Be Smart
 
 ###
 
