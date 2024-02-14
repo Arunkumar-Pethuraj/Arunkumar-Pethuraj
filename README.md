@@ -16,11 +16,7 @@
 
 ###
 
-<p align="left">🚀 I'm currently working on Raah Tech Services Intern</p>
-
-###
-
-<p align="left">🧠 I'm currently learning  React.Js, Tailwind</p>
+<p align="left">🧠 I'm currently learning  React.Js</p>
 
 ###
 
