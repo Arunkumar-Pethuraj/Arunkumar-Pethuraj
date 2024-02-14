@@ -73,7 +73,7 @@
 
 ###
 
-<b>My GitHub Stats</b>
+<h3 align="left">📈 My Github Stats</h3>
 
 ###
 
